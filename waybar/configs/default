@@ -2,7 +2,7 @@
         "include": [
                 "$HOME/.config/waybar/Modules",
                 "$HOME/.config/waybar/ModulesWorkspaces",
-                "$HOME/.config/waybar/ModulesCustom",
+                "$HOME/.config/waybar/ModulesCustom"
         ],
         "layer": "bottom",
         "exclusive": true,
@@ -27,7 +27,7 @@
         ],
         "modules-right": [
                 "tray",
-                "temperature",
+                "custom/temp",
                 "custom/fan",
                 "custom/swaync",
                 "custom/separator#blank",

@@ -11,12 +11,12 @@
 		],
 		//"thermal-zone": 0,
 		"critical-threshold": 82,
-		"format-critical": "{temperatureC}°C {icon}",
+		"format-critical": "{temperatureC}°C",
 		"format": "{temperatureC}°C",
 		"format-icons": [
 			"󰈸"
 		],
-		"on-click-right": "$HOME/.config/hypr/scripts/WaybarScripts.sh --nvtop"
+		"on-click-right": "btop"
 	},
 	"backlight": {
 		"interval": 2,
