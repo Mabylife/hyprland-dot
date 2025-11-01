@@ -78,7 +78,7 @@
 	},
 	// Hypridle inhibitor
 	"custom/hypridle": {
-		"format": "󱫗 ",
+		"format": "HINT!",
 		"return-type": "json",
 		"escape": true,
 		"exec-on-event": true,

@@ -249,8 +249,8 @@
 # for matugen
 gradient = 1
 gradient_count = 2
-gradient_color_1 = '#37393e'
-gradient_color_2 = '#adc6ff'
+gradient_color_1 = '#403739'
+gradient_color_2 = '#ffb0c9'
 
 [smoothing]
 
@@ -289,4 +289,4 @@ gradient_color_2 = '#adc6ff'
 ; 3 = 1 # midtone
 ; 4 = 1
 ; 5 = 1 # treble
-source = alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor
+source = alsa_output.usb-Logitech_G_series_G435_Wireless_Gaming_Headset_202105190004-00.analog-stereo.monitor
